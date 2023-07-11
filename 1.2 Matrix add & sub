@@ -1,0 +1,10 @@
+matA <- matrix(1:9, nrow = 3, ncol = 3)
+matB <- matrix(10:18, nrow = 3, ncol = 3)
+
+# Matrix Addition
+mat_sum <- matA + matB
+print(mat_sum)
+
+# Matrix Subtraction
+mat_diff <- matA - matB
+print(mat_diff)

@@ -1,0 +1,4 @@
+complex_num <- complex(real = 2, imaginary = -3)
+
+# Printing the complex number
+print(complex_num)
